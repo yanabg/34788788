@@ -39,4 +39,4 @@ jobs:
           app-name: 'lab-ybgba'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9164B33195634215868C59CB25FDBCB4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_291DBA9D0DFD43ABAAFC1F71F361C882 }}
